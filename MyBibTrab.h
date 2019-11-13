@@ -30,6 +30,7 @@ void menuPrincipal(){
 			"2 - Cadastro Fidelidade\n"
 			"3 - Listar cadastrados\n"
 			"4 - Buscar por CPF\n"
+			"5 - Status das sessões\n"
 			"\n0 - Sair\n\n");
 }
 
